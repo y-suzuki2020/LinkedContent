@@ -1,0 +1,2 @@
+# LinkedContent
+アプリLinkedSampleのコンテンツ
